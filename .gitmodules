@@ -1,0 +1,3 @@
+[submodule "ad7193-arduino"]
+	path = ad7193-arduino
+	url = https://github.com/adfelippe/ad7193-arduino.git

@@ -1,0 +1,15 @@
+[submodule "lib/nanopb"]
+	path = lib/nanopb
+	url = https://github.com/nanopb/nanopb.git
+[submodule "lib/cellular-firmware-idl"]
+	path = lib/cellular-firmware-idl
+	url = ssh://git@gitlab.bt.local:2224/integration/cellular-firmware-idl.git
+[submodule "harmony_bt"]
+	path = harmony_bt
+	url = ssh://git@gitlab.bt.local:2224/firmware/harmony_bt.git
+[submodule "lib/cs-lab-interface"]
+	path = lib/cs-lab-interface
+	url = ssh://git@gitlab.bt.local:2224/firmware/cs-common/cs-lab-interface.git
+[submodule "lib/bt-libs"]
+	path = lib/bt_libs
+	url = ssh://git@gitlab.bt.local:2224/firmware/microchip-bt-libs.git
